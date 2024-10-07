@@ -1,0 +1,82 @@
+[
+  {
+    "_id": 1,
+    "tenSach": "Sống Chậm Đợi Nắng Lên",
+    "moTa": "Lúc con trai còn nhỏ, tôi thường có những trò chơi...",
+    "urlHinh": "images/song-cham-doi-nang-len.png",
+    "capNhat": "2022-01-08 14:10:27",
+    "gia": 89000,
+    "idLoai": 3,
+    "anHien": 1
+  },
+  {
+    "_id": 2,
+    "tenSach": "Sống Xanh Như Những Lá Trà",
+    "moTa": "Trong cuốn sách thú vị này, bạn sẽ được khám phá...",
+    "urlHinh": "images/song-xanh-nhu-nhung-la-tra.png",
+    "capNhat": "2022-01-08 14:10:04",
+    "gia": 109000,
+    "idLoai": 3,
+    "anHien": 1
+  },
+  {
+    "_id": 3,
+    "tenSach": "Sống Như Lần Đầu, Yêu Như Lần Cuối",
+    "moTa": "Cuốn sách là những câu chuyện đời sống hàng ngày,...",
+    "urlHinh": "images/song-nhu-lan-dau-tien-yeu-thuong-nhu-lan-cuoi.png",
+    "capNhat": "2022-01-08 14:13:40",
+    "gia": 99000,
+    "idLoai": 3,
+    "anHien": 1
+  },
+  {
+    "_id": 4,
+    "tenSach": "Những Ngày Đầy Nắng",
+    "moTa": "“Bạn thân mến! Tôi chưa bao giờ nghĩ mình sẽ viết...",
+    "urlHinh": "images/nhung-ngay-day-nang.png",
+    "capNhat": "2022-01-08 14:15:44",
+    "gia": 129000,
+    "idLoai": 3,
+    "anHien": 1
+  },
+  {
+    "_id": 5,
+    "tenSach": "Sức Mạnh Của Sự Tử Tế",
+    "moTa": "Bạn có nhớ nụ cười của một người lạ khi bạn giữ cửa...",
+    "urlHinh": "images/suc-manh-cua-su-tu-te.png",
+    "capNhat": "2022-01-08 14:18:44",
+    "gia": 68000,
+    "idLoai": 3,
+    "anHien": 1
+  },
+  {
+    "id": 6,
+    "tenSach": "Để Có Một Tương Lai",
+    "moTa": "Trong xã hội có rất nhiều mối nguy. Nếu chúng ta đ...",
+    "urlHinh": "images/de-co-mot-tuong-lai.png",
+    "capNhat": "2022-01-08 14:33:14",
+    "gia": 155000,
+    "idLoai": 3,
+    "anHien": 1
+  },
+  {
+    "_id": 7,
+    "tenSach": "Cân Bằng Cảm Xúc, Cả Lúc Bão Giông",
+    "moTa": "Một ngày, chúng ta có khoảng 16 tiếng tiếp xúc với...",
+    "urlHinh": "images/can-bang-cam-xuc-ca-luc-bao-giong.jpg",
+    "capNhat": "2022-01-08 14:34:50",
+    "gia": 96000,
+    "idLoai": 3,
+    "anHien": 1
+  },
+  {
+    "_id": 8,
+    "tenSach": "Hiểu Về Trái Tim",
+    "moTa": "Xuất bản lần đầu tiên vào năm 2011, Hiểu Về Trái T...",
+    "urlHinh": "images/hieu-ve-trai-tim.jpg",
+    "capNhat": "2022-01-08 15:01:03",
+    "gia": 138000,
+    "idLoai": 3,
+    "anHien": 1
+  }
+]

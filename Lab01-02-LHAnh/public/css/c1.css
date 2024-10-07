@@ -1,0 +1,27 @@
+/* c1.css */
+
+/* Đặt kiểu cho body */
+body {
+  font-family: Arial, sans-serif; /* Font chữ */
+  margin: 20px; /* Khoảng cách giữa viền và nội dung */
+  background-color: #eeecec; /* Màu nền */
+}
+
+/* Kiểu cho các đoạn văn */
+p {
+  background-color: #fff; /* Màu nền trắng cho mỗi sản phẩm */
+  padding: 10px; /* Khoảng cách bên trong */
+  border: 1px solid #ddd; /* Đường viền mỏng */
+  border-radius: 5px; /* Bo tròn các góc */
+}
+
+/* Kiểu cho các tiêu đề */
+b {
+  color: #333; /* Màu chữ */
+}
+
+/* Đường phân cách giữa các sản phẩm */
+hr {
+  border: 1px solid #ddd; /* Đường viền mỏng */
+  margin: 20px 0; /* Khoảng cách trên và dưới */
+}

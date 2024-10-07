@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link href="css/c1.css" rel="stylesheet" />
+    <!-- Sửa đường dẫn -->
+  </head>
+  <body>
+    <% for(let p of sp) {%>
+    <p>
+      Ten SP: <b> <%= p.name %></b> <br />
+      Gia: <%= p.price %>
+    </p>
+    <hr />
+    <% } %>
+  </body>
+</html>
